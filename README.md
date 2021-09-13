@@ -3,6 +3,6 @@ A collection of selected data science projects from basic to advanced to demonst
 
 ## Content
 * __text classifier__: a simple neural network model to classiy text as "sarcasm" or not
-  * tags: python,pandas,matplotlib,tensorflow,keras,sklearn
+  * tags : python,pandas,matplotlib,tensorflow,keras,sklearn
 
 ## In Progress
