@@ -31,6 +31,6 @@ A collection of selected data science projects from basic to advanced to demonst
 *__depolying a sentiment analysis model using tunBERT 
 *__making a question answering model 
 *__depolying a chat bot 
-*__stacking the semantic similtarity and summerizer models to make a very efficent summerizer website
+*__stacking the semantic similtarity and summerizer models to make a very efficent summerizer website 
 
 
