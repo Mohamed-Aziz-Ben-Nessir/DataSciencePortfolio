@@ -8,7 +8,7 @@ A collection of selected data science projects from basic to advanced to demonst
   * tags python,pytorch,transformers
   
 
-* __neural-machine-translation-english-arabic__: an encoder decoderarchitecture with an attention layer in in between
+* __neural machine translation English-Arabic__: an encoder decoderarchitecture with an attention layer in in between
   * highlights : Bahdanau Attention , encoder , decoder 
   * tags : tenserflow,numpy,pandas,keras
   
@@ -28,4 +28,8 @@ A collection of selected data science projects from basic to advanced to demonst
   * tags : python transformers
 
 ## In Progress
+*__depolying a sentiment analysis model using tunBERT 
+*__making a question answering model 
+*__depolying a chat bot 
+*__stacking the semantic similtarity and summerizer models to make a very efficent summerizer website 
 
