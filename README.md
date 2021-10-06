@@ -1,7 +1,8 @@
 # DataSciencePortfolio
 A collection of selected data science projects from basic to advanced to demonstrate my knowledge in various machine learning / deep learning algorithms and my ability to work with multiple frameworks and libraries  
 
-## Content
+## Content 
+Don't forget to GPU accelerate if you are going to spin up any of the models  
 
 * __semantic similarity__ : creating a siamese network like architecture using 2 bert heads to compare 2 questions
   * highlights : bert-base-uncased
