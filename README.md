@@ -6,7 +6,7 @@ Don't forget to GPU accelerate if you are going to spin up any of the models
 
 * __semantic similarity__ : creating a siamese network like architecture using 2 bert heads to compare 2 questions
   * highlights : bert-base-uncased
-  * tags python,pytorch,transformers
+  * tags : python,pytorch,transformers
   
 
 * __neural machine translation English-Arabic__: an encoder decoderarchitecture with an attention layer in in between
