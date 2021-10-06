@@ -14,8 +14,8 @@ A collection of selected data science projects from basic to advanced to demonst
   
 
 *  __text classifier__: a simple Autokeras model to classiy text as "sarcasm" or not
-  * highlights : AutoKeras
-  * tags : python,pandas,numpy,matplotlib,tensorflow,keras,sklearn
+   * highlights : AutoKeras
+   * tags : python,pandas,numpy,matplotlib,tensorflow,keras,sklearn
  
 
 * __text generator__: generattion head lines based on previous head lines from "The NewYork Times" paper 
@@ -28,3 +28,4 @@ A collection of selected data science projects from basic to advanced to demonst
   * tags : python transformers
 
 ## In Progress
+
