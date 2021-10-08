@@ -9,7 +9,7 @@ Don't forget to GPU accelerate if you are going to spin up any of the models
   * tags : python,pytorch,transformers
   
 
-* __neural machine translation English-Arabic__: an encoder decoderarchitecture with an attention layer in in between
+* __neural machine translation English-Arabic__: an encoder decoder architecture with an attention layer in in between
   * highlights : Bahdanau Attention , encoder , decoder 
   * reference : deeplearning.ai deep learning specialization sequential models course
   * tags : tenserflow,numpy,pandas,keras
