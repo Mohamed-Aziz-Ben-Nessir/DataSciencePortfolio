@@ -12,7 +12,7 @@ Don't forget to GPU accelerate if you are going to spin up any of the models
 * __neural machine translation English-Arabic__: an encoder decoder architecture with an attention layer in in between
   * highlights : Bahdanau Attention , encoder , decoder 
   * reference : deeplearning.ai deep learning specialization sequential models course
-  * tags : tenserflow,numpy,pandas,keras
+  * tags : tensorflow,numpy,pandas,keras
   
 
 *  __text classifier__: a simple Autokeras model to classiy text as "sarcasm" or not
